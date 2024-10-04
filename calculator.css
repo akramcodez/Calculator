@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.917);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.body {
+  height: 30rem;
+  width: 25rem;
+  background-color: rgba(17, 17, 17, 0.929);
+  border: 1.5px solid rgba(255, 255, 255, 0.615);
+  border-radius: 1rem;
+  margin-top: 6rem ;
+  display: flex;
+  flex-direction: column;
+}
+.line {
+  height: 5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.startingLine {
+  border-bottom: 1.5px solid rgba(255, 255, 255, 0.252);
+  display: flex;
+}
+.btn {
+  color: white;
+  width: 3.5rem;
+  height: 3.5rem;
+  border: 0.1rem solid rgba(255, 255, 255, 0.394);
+  background-color: black;
+  border-radius: 50%;
+  margin-top: 0.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn1 {
+  color: greenyellow;
+}
+.equal{
+    background-color: orange;
+    font-size: 2.2rem;
+    font-weight: 900;
+}
+.text{
+    width: 23rem;
+    padding-left: 0.8rem;
+    padding-right: 0.9rem;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    background-color: black;
+    color: white;
+    font-size: 3rem;
+    text-align: right;
+}
+.red{
+    color: red;
+}
+.green{
+  color: greenyellow;
+}
+@media (max-width : 450px){
+  .body{
+    height: 25rem;
+    width: 20rem;
+  }
+  .line {
+    height: 4rem;
+  }
+  .btn {
+    color: white;
+    width: 3.2rem;
+    height: 3.2rem;
+  }
+  .btn1 {
+    color: greenyellow;
+  }
+  .text{
+    width: 18.1rem;
+    font-size: 2.3rem;
+  }
+}
