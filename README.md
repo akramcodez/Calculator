@@ -30,7 +30,7 @@ Usage
 
 Author
 
- - SK Akram (@akramcodez)
+ - SK Akram ([@akramcodez](https://github.com/akramcodez))
 
 Connect with Me!
 
