@@ -34,7 +34,7 @@ Author
 
 Live Preview
 
-- Check out the final result on my Instagram page - https://calculator-by-akram.web.app/
+- - Check out the final result - https://calculator-by-akram.web.app/
 
 Connect with Me!
 
