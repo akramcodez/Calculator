@@ -32,6 +32,10 @@ Author
 
  - SK Akram ([@akramcodez](https://github.com/akramcodez))
 
+Live Preview
+
+- Check out the final result on my Instagram page - https://calculator-by-akram.web.app/
+
 Connect with Me!
 
  - Want to stay updated on my projects or collaborate? Visit my social media profiles via my GitHub profile...
